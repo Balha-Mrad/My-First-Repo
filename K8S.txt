@@ -4,3 +4,8 @@ Master Node Compoenent
  Controller
  etcd
  Kubelet
+
+Worker Node
+Kubelet
+Kube-proxy
+
