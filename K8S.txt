@@ -1,0 +1,6 @@
+Master Node Compoenent
+ API-Server
+ Scheduler
+ Controller
+ etcd
+ Kubelet
